@@ -1,0 +1,224 @@
+{
+    "profissionais":{
+        "Analista de Sistemas":{
+            "hora": 24.62
+        },
+        "Analista de Negócios":{
+            "hora": 23.08
+        },
+        "Analista de Qualidade":{
+            "hora": 18.46
+        },
+        "Analista de Testes":{
+            "hora": 24.62
+        },
+        "Arquiteto de Software":{
+            "hora": 46.15
+        },
+        "Designer":{
+            "hora": 14.00
+        },
+        "Desenvolvedor":{
+            "hora": 29.16
+        },
+        "Especialista em Banco de Dados":{
+            "hora": 47.67
+        },
+        "Especialista em Implantação":{
+            "hora": 30.77
+        },
+        "Especialista em Marketing":{
+            "hora": 24.62
+        },
+        "Gerente de Projetos":{
+            "hora": 36.92
+        },
+        "Recursos Humanos":{
+            "hora": 13.85
+        },
+        "Analista Contabil":{
+            "hora": 18.46
+        }
+    },
+    "Equipamentos":{
+        "Notebook":{
+            "Modelo": "Lenovo V14",
+            "Link": "https://www.lenovo.com/br/pt/laptops/lenovo/serie-v/Lenovo-V14-G2-ITLBrazil/p/82NM000PBR",
+            "Consumo": 38,
+            "Valor": 4500.00,
+            "Depreciação": 0.20
+        },
+        "Monitor": {
+            "Modelo": "Monitor LG Widescreen 24MK430H",
+            "Link": "https://www.lg.com/br/monitores/lg-24MK430H-B",
+            "Consumo": 26,
+            "Valor": 520.00,
+            "Depreciação": 0.20
+        },
+        "Periféricos": {
+            "Valor": 130.00,
+            "Depreciação": 0.20
+        },
+        "Mesa": {
+            "Valor": 170.00,
+            "Depreciação": 0.10
+        },
+        "Cadeira": {
+            "Valor": 300.00,
+            "Depreciação": 0.10
+        }
+    },
+    "Serviços":{
+        "Figma Professional":{
+            "Valor": 57.48
+        },
+        "Hospedagem":{
+            "Valor": 980.87
+        }
+    },
+    "Taxas":{
+        "INSS":{
+            "Valor": 0.11
+        },
+        "FGTS":{
+            "Valor": 0.08
+        },
+        "13º Salário":{
+            "Valor": 0.08
+        },
+        "Férias":{
+            "Valor": 0.08
+        }
+    },
+    "Atividades":{
+        "Descrição e objetivo do projeto":{
+            "horas": 20,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Designer",
+                "Desenvolvedor"
+            ]
+        },
+        "Escopo do projeto":{
+            "horas": 20,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Analista de Negócios",
+                "Arquiteto de Software"
+            ]
+        },
+        "Definição do projeto":{
+            "horas": 20,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Gerente de Projetos"
+            ]
+        },
+        "Análise de viabilidade":{
+            "horas": 20,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Analista de Negócios",
+                "Gerente de Projetos"
+            ]
+        },
+        "Definição da equipe de projeto":{
+            "horas": 40,
+            "profissionais":[
+                "Recursos Humanos",
+                "Gerente de Projetos"
+            ]
+        },
+        "Definição de recursos necessários":{
+            "horas": 40,
+            "profissionais":[
+                "Gerente de Projetos",
+                "Analista Contabil"
+            ]
+        },
+        "Produção de diagramas e documentos":{
+            "horas":80,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Arquiteto de Software",
+                "Especialista em Banco de Dados",
+                "Gerente de Projetos"
+            ]
+        },
+        "Modelagem do sistema e do banco de dados":{
+            "horas": 80,
+            "profissionais":[
+                "Analista de Sistemas",
+                "Arquiteto de Software",
+                "Especialista em Banco de Dados"
+            ]
+        },
+        "Design de interface e prototipação":{
+            "horas": 60,
+            "profissionais":[
+                "Designer"
+            ]
+        },
+        "Codificação Frontend":{
+            "horas": 640,
+            "profissionais":[
+                "Desenvolvedor"
+            ]
+        },
+        "Codificação Backend":{
+            "horas": 640,
+            "profissionais":[
+                "Desenvolvedor"
+            ]
+        },
+        "Testes":{
+            "horas": 160,
+            "profissionais":[
+                "Analista de Testes"
+            ]
+        },
+        "Preparaçao do ambiente de produção":{
+            "horas": 160,
+            "profissionais":[
+                "Especialista em Implantação"
+            ]
+        },
+        "Manutenção do ambiente de produção":{
+            "horas": 160,
+            "profissionais":[
+                "Especialista em Implantação"
+            ]
+        },
+        "Monitoramento e ajustes":{
+            "horas": 160,
+            "profissionais":[
+                "Especialista em Implantação"
+            ]
+        },
+        "Preparar material de treinamento do usuario":{
+            "horas": 60,
+            "profissionais":[
+                "Recursos Humanos"
+            ]
+        },
+        "Marketing":{
+            "horas": 80,
+            "profissionais":[
+                "Especialista em Marketing"
+            ]
+        },
+        "Testes de aceitação":{
+            "horas": 60,
+            "profissionais":[
+                "Analista de Testes"
+            ]
+        },
+        "Avaliação do projeto e próximos passos":{
+            "horas": 60,
+            "profissionais":[
+                "Gerente de Projetos",
+                "Analista de Qualidade"
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Notebook":{
+        "Modelo": "Lenovo V14",
+        "Link": "https://www.lenovo.com/br/pt/laptops/lenovo/serie-v/Lenovo-V14-G2-ITLBrazil/p/82NM000PBR",
+        "Consumo": 38,
+        "Valor": 4500.00,
+        "Depreciação": 0.20
+    },
+    "Monitor": {
+        "Modelo": "Monitor LG Widescreen 24MK430H",
+        "Link": "https://www.lg.com/br/monitores/lg-24MK430H-B",
+        "Consumo": 26,
+        "Valor": 520.00,
+        "Depreciação": 0.20
+    },
+    "Periféricos": {
+        "Valor": 130.00,
+        "Depreciação": 0.20
+    },
+    "Mesa": {
+        "Valor": 170.00,
+        "Depreciação": 0.10
+    },
+    "Cadeira": {
+        "Valor": 300.00,
+        "Depreciação": 0.10
+    }
+}

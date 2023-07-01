@@ -1,0 +1,14 @@
+{
+    "INSS":{
+        "valor": 0.11
+    },
+    "FGTS":{
+        "valor": 0.08
+    },
+    "13º Salário":{
+        "valor": 0.08
+    },
+    "Férias":{
+        "valor": 0.08
+    }
+}

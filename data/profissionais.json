@@ -1,0 +1,41 @@
+{
+    "Analista de Sistemas":{
+        "hora": 24.62
+    },
+    "Analista de Negócios":{
+        "hora": 23.08
+    },
+    "Analista de Qualidade":{
+        "hora": 18.46
+    },
+    "Analista de Testes":{
+        "hora": 24.62
+    },
+    "Arquiteto de Software":{
+        "hora": 46.15
+    },
+    "Designer":{
+        "hora": 14.00
+    },
+    "Desenvolvedor":{
+        "hora": 29.16
+    },
+    "Especialista em Banco de Dados":{
+        "hora": 47.67
+    },
+    "Especialista em Implantação":{
+        "hora": 30.77
+    },
+    "Especialista em Marketing":{
+        "hora": 24.62
+    },
+    "Gerente de Projetos":{
+        "hora": 36.92
+    },
+    "Recursos Humanos":{
+        "hora": 13.85
+    },
+    "Analista Contabil":{
+        "hora": 18.46
+    }
+}

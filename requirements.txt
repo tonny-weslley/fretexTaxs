@@ -1,0 +1,6 @@
+mypy==1.4.1
+mypy-extensions==1.0.0
+prettytable==3.8.0
+tomli==2.0.1
+typing_extensions==4.7.0
+wcwidth==0.2.6
